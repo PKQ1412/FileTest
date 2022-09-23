@@ -13,5 +13,5 @@ public class NhanVien {
     String maNV, tenNV;
     String bcs;
     String test;
-    String g;
+    String Phi;
 }
