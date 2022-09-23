@@ -13,10 +13,6 @@ public class NhanVien {
     String maNV, tenNV;
     String bcs;
     String test;
-<<<<<<< HEAD
     String vuong, Tuan;
     
-=======
-    String vuong, Phi;
->>>>>>> 48614ee6ac1c49f771c3914df867752986423afd
 }
