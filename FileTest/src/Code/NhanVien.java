@@ -12,5 +12,5 @@ package Code;
 public class NhanVien {
     String maNV, tenNV;
     String bcs;
-    
+    String test;
 }
