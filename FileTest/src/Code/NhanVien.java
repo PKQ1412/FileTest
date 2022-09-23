@@ -13,5 +13,6 @@ public class NhanVien {
     String maNV, tenNV;
     String bcs;
     String test;
-    String vuong;
+    String vuong, Tuan;
+    
 }
