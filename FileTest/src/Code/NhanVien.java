@@ -15,5 +15,5 @@ public class NhanVien {
     String test;
     String vuong, Phi;
     String tham, khang;
-
+    String c, d;
 }
