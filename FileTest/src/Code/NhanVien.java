@@ -14,6 +14,6 @@ public class NhanVien {
     String bcs;
     String test;
     String vuong, Phi;
-    String cuong, hoa;
+    String tham, khang;
 
 }
